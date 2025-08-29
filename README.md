@@ -14,21 +14,16 @@ It saves time by avoiding manual email sending and can also handle file attachme
 - Easy to customize and use
 
 ## 🔹 Tech Stack
-- Python
-- Libraries: `smtplib`, `ssl`, `email.mime`, `csv` (optional)
-
-## 🔹 How to Run
-1. Clone the repository  
-2. Open the script in Python  
-3. Add your sender email and password  
-4. Add recipient emails in the list or CSV file  
-5. Run the script → Emails will be sent automatically  
+- Language : Python
+- Libraries: `smtplib`, `ssl`, `email.mime`, `excel` 
+## 🔹 How it Works 
+1. Open the script in Python  
+2. Add your sender email and password  
+3. Add recipient emails in the list of excel file  
+4. Run the script → Emails will be sent automatically  
 
 ## 🔹 Use Cases
 - Automated daily/weekly reports  
 - Sending notifications to multiple users  
 - Bulk announcements  
 
-## 🔹 Future Improvements
-- Add GUI for non-technical users  
-- Schedule automatic email sending  
